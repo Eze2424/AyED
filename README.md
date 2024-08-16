@@ -1,3 +1,3 @@
 # AyED
-Nombre: Ezequiel Ponce
-Comision: k1102
+Ezequiel Ponce
+k1102
